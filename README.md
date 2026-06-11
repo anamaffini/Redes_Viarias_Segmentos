@@ -10,7 +10,9 @@ O script foi desenvolvido para facilitar análises urbanas, morfológicas e de m
 > Ana Luisa Maffini (ORCID: 0000-0001-5334-7073)  
 > Contato: `analuisamaffini@gmail.com`
 >
-> To cite: Maffini, A. L., & Gonçalves, G. (2025). Redes Viarias Segmentos (Versão v01). Zenodo. https://doi.org/10.5281/zenodo.17630539
+> To cite the newest version: Maffini, A. L., & Gonçalves, G. (2026). Redes Viarias Segmentos (v_02). Zenodo. https://doi.org/10.5281/zenodo.20647467
+>
+> To cite version 01: Maffini, A. L., & Gonçalves, G. (2025). Redes Viarias Segmentos (Versão v01). Zenodo. https://doi.org/10.5281/zenodo.17630539
 
 ---
 
