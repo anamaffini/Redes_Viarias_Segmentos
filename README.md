@@ -1,4 +1,5 @@
-# Redes Viárias OSMnx por Município (QGIS Processing Algorithm)
+# Redes Viárias OSMnx por Município 
+### QGIS Processing Algorithm
 
 Este repositório contém um algoritmo de processamento para o QGIS que baixa redes viárias do OpenStreetMap usando o **OSMnx**, a partir de **um ou vários códigos de município do IBGE**, e salva os **segmentos de rede (edges)** em **um único arquivo GeoPackage**, com **uma camada por município**.
 
@@ -12,6 +13,16 @@ O script foi desenvolvido para facilitar análises urbanas, morfológicas e de m
 > To cite: Maffini, A. L., & Gonçalves, G. (2025). Redes Viarias Segmentos (Versão v01). Zenodo. https://doi.org/10.5281/zenodo.17630539
 
 ---
+
+## Última Atualização
+
+### Versão 02
+Data: 11-06-2026
+
+- O que mudou?
+  - O script agora identifica se as bibliotecas python necessárias estão instaladas, e
+  caso não esteja ele tenta instalar automaticamente.
+
 
 ## 🎯 Principais funcionalidades
 
